@@ -10,6 +10,7 @@ params:
     rssFullContent: true
     favicon:
 
+
     footer:
         since:
         customText:
@@ -21,7 +22,8 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: "Computer Science Student & Java Web Developer located in Hamburg, Germany."
+
         avatar:
             enabled: true
             local: true
