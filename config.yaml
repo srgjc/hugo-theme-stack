@@ -27,7 +27,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/sergio_jimenez_ai_avatar.jpg
 
     article:
         headingAnchor: false
